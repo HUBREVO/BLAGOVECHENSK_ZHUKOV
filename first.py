@@ -1,2 +1,2 @@
-import print 
-print("My first git-repo")
+import jdm as maga
+print(maga)
